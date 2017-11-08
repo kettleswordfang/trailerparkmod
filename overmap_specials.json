@@ -10,6 +10,6 @@
         "locations" : [ "wilderness" ], "//":"what special locations does it spawn",
         "city_distance" : [1, 15], "//":"how far from a city it should be",
         "city_sizes" : [4, 12], "//":"what city sizes should it spawn in",
-        "occurrences" : [5, 10], "//":"how many per overmap"
+        "occurrences" : [1, 10], "//":"how many per overmap"
     }
 ]

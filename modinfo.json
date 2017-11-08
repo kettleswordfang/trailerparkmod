@@ -1,9 +1,10 @@
-{
-        "type": "MOD_INFO",
-		"category": "buildings",
-        "ident": "trailerparkmod",
-        "name": "Trailer Parks",
-        "description": "Adds trailer parks and trailers to map generation.",
-        "path": "",
-		"author": "Kettle Swordfang"
-    }
+   {
+       "type": "MOD_INFO",
+       "category": "buildings",
+       "ident": "trailerpark",
+       "name": "Trailer Parks",
+       "description": "Adds Trailer Parks and pre-built trailers.",
+       "path": ""
+	   "author": "inspired by the trailers in sabaku mod"
+	   "maintainer": "Kettle Swordfang"
+   }

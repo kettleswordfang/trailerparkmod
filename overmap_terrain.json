@@ -1,0 +1,20 @@
+[
+	{
+        "type" : "overmap_terrain",
+        "id" : "trailerpark1",
+        "name" : "trailer park",
+        "sym" : 68,
+        "color" : "light_gray",
+        "see_cost" : 2,
+        "spawns" : { "group": "GROUP_FOREST", "population": [0, 1], "chance": 80 }
+    },
+	{
+        "type" : "overmap_terrain",
+        "id" : "trailerpark2",
+        "name" : "trailer park",
+        "sym" : 68,
+        "color" : "light_gray",
+        "see_cost" : 2,
+        "spawns" : { "group": "GROUP_FOREST", "population": [0, 1], "chance": 80 }
+    }
+	]

@@ -49,8 +49,8 @@
         ],
         "place_monsters": [
             {
-                "chance": 0,
-                "density": 0,
+                "chance": 100,
+                "density": 10,
                 "monster": "GROUP_ZOMBIE",
                 "x": 6,
                 "y": 3
@@ -58,7 +58,7 @@
             {
                 "chance": 0,
                 "density": 0,
-                "monster": "GROUP_DOGS",
+                "monster": "GROUP_PET",
                 "x": 5,
                 "y": 12
             }

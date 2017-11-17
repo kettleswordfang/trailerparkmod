@@ -5,7 +5,7 @@
 		"om_terrain": "trailerpark_under",
 		"weight": 100,
 		"object": {
-			"fill_ter": "t_rock",	
+			"fill_ter": "t_rock_floor",	
             "rows": [
             "########################",
             "########################",

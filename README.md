@@ -2,7 +2,7 @@
 
 Adds `trailer parks` to map generation, as well as regular and small trailers.
 
-*Everything works?*
+~~*Everything works?*~~ **Everything works**
 + might play a little with the items that get spawned in the RVs
 + ~~does it spawn on the map enough? too much? i dunno~~
 + ~~the monsters that spawn there probably need balancing~~

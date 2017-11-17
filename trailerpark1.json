@@ -1,6 +1,9 @@
 [
 {
     "method": "json",
+	"om_terrain": "trailerpark1",
+    "type": "mapgen",
+    "weight": 2,
     "object": {
 		"fill_ter": "t_dirt",
         "furniture": {
@@ -143,9 +146,6 @@
             "t": "t_linoleum_white",
             "|": "t_sconc_wall"
         }
-    },
-    "om_terrain": "trailerpark1",
-    "type": "mapgen",
-    "weight": 2
+    }
 }
 ]

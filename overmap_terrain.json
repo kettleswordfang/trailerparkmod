@@ -20,7 +20,7 @@
 	{
 		"type": "overmap_terrain",
 		"id": "trailerpark_under",
-		"name": "storage",
+		"name": "trailer park storage",
 		"sym": "94",
 		"color": "light_gray",
 		"see_cost": 2,

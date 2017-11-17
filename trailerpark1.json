@@ -2,6 +2,7 @@
 {
     "method": "json",
     "object": {
+		"fill_ter": "t_dirt",
         "furniture": {
             "#": "f_null",
             "$": "f_null",
@@ -101,7 +102,7 @@
             "$|t|t|swd|_.....1.___X..",
             "$|+|+|lll|v.............",
             "$|lllllll|T.........._..",
-            "$|lllllll|_.............",
+            "$|>llllll|_.............",
             "$.._________......_.....",
             "$.W_________......_...._",
             "$..______b__............",
@@ -122,6 +123,7 @@
             "$$$_________$$$$$$$$$#$$"
         ],
         "terrain": {
+			">": "t_stairs_down",
             "#": "t_fence_post",
             "$": "t_fence_wire",
             "&": "t_dirt",
@@ -137,14 +139,8 @@
             "b": "t_dirt",
             "d": "t_grass",
             "f": "t_grass",
-            "+": "t_linoleum_white",
             "l": "t_linoleum_white",
             "t": "t_linoleum_white",
-            "s": "t_grass",
-            "t": "t_grass",
-            "v": "t_grass",
-            "w": "t_grass",
-            "{": "t_grass",
             "|": "t_sconc_wall"
         }
     },

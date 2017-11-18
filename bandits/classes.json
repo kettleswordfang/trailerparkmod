@@ -24,7 +24,7 @@
 			},
 			{ "skill": "dodge", "bonus" : { "rng" : [ 2, 4 ] } },
 			{ "skill": "gun", "bonus" : { "rng" : [ 1, 4 ] } },
-			{ "skill": "pistol", "bonus" : { "rng" : [ 4, 6 ] } },
+			{ "skill": "pistol", "bonus" : { "rng" : [ 4, 6 ] } }
 		],
 		"traits": [
 			[ "ADRENALINE", 100 ]
@@ -41,7 +41,7 @@
 		"bonus_per" : 5,
 		"skills" : [
 			{ "skill": "dodge", "bonus" : 5 },
-			{ "skill": "gun", "bonus" : { "rng" : 5 },
+			{ "skill": "gun", "bonus" : 5 },
 			{ "skill": "shotgun", "bonus" : { "rng" : [ 5, 8 ] } },
 			{ "skill": "firstaid", "bonus" : { "rng" : [ 4, 6 ] } }
 		],

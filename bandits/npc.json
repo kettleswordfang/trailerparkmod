@@ -25,6 +25,6 @@
 		"attitude" : 10,
 		"mission" : 0,
 		"chat" : "TALK_MUG",
-		"faction" : "corrupt_militia",
+		"faction" : "corrupt_militia"
 	}
 ]

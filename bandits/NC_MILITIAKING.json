@@ -23,7 +23,7 @@
 		"type" : "item_group",
 		"id" : "NC_MILITIAKING_gloves",
 		"items":[
-			["gloves_leather", 100],
+			["gloves_leather", 100]
 		]
 	},{
 		"type" : "item_group",
@@ -42,7 +42,7 @@
 		"//": "uses 20x66_10_mag & 10 rounds of 20x66_10 for ammo",
 		"id" : "NC_MILITIAKING_weapon_random",
 		"items":[
-			["rm120", 100],
+			["rm20", 100]
 		]
 	}
 ]

@@ -6,6 +6,10 @@
 		"weight": 100,
 		"object": {
 			"fill_ter": "t_dirt",
+			"place_npcs": [
+				{ "class": "militia_warrior", "x": 4, "y": 15 },
+				{ "class": "militia_king", "x": 8, "y": 7 }
+			],
 			"rows": [
 	            "$$$$$$$$$$$$$$$$$$$$$$$$",
 				"______....._.DD.._..._.$",
